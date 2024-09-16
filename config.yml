@@ -2,6 +2,6 @@ name: "porracin.com"
 author: "Marco Porracin"
 url: "https://porracin.com"
 
-avatar: "/assets/img/mporracin.jpeg"
+avatar: "/assets/img/mporracin.png"
 
 static_root: "/assets"
