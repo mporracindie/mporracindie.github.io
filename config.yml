@@ -1,0 +1,7 @@
+name: "porracin.com"
+author: "Marco Porracin"
+url: "https://porracin.com"
+
+avatar: "/assets/img/mporracin.jpeg"
+
+static_root: "/assets"

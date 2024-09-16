@@ -1,0 +1,24 @@
+- date: 2024
+  name: Messi GOAT
+  url: https://messi.porracin.com/ 
+  description: enjoy finding and watching all Messi's goals made on specific dates.
+- date: 2024
+  name: Plex
+  url: https://github.com/mporracindie/plex 
+  description: a super easy way to spin up plex, radarr, sonarr and everything u need to watch series or movies and continue avoiding responsabilities.
+- date: 2023
+  name: Flac to Wav
+  url: https://flactowav.com/ 
+  description: audio converter site (from flac to wav) i made for a couple of DJ friends.
+- date: 2023
+  name: GCP Auth user redirect
+  url: https://github.com/mporracindie/ce_authuser_redirect 
+  description: super dummy chrome extension that detects GCP auth errors and adds the authuser parameter on the url.
+- date: 2022
+  name: .dotfiles
+  url: https://github.com/mporracindie/dotfiles 
+  description: where i save configurations like .profile to easily re configure new devices.
+- date: 2021
+  name: Own That Token
+  url: https://ownthattoken.com/ 
+  description: check for all (outdated) of the tokens you wallet might have.
