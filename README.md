@@ -1,4 +1,4 @@
 
 # porracin.com
 
-A jorge blog by Marco Porracin.
+A jorge site by Marco Porracin.
