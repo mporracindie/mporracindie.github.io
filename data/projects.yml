@@ -1,4 +1,16 @@
 - date: 2025
+  name: devalu.ar
+  url: https://devalu.ar/ 
+  description: Explorá cómo la inflación transformó los valores a través del tiempo en Argentina
+- date: 2025
+  name: GAID
+  url: https://gaid.ar/ 
+  description: Construido durante hackathon de ShipBA. Portal para encontrar experiencias culturales utilizando AI y sentiment analysis
+- date: 2025
+  name: Rock Rampage
+  url: https://rock.porracin.com/ 
+  description: Kinda like Vampire Survivor but really crappy just with emojis and web
+- date: 2025
   name: Startup Equity Calculator
   url: https://equity.porracin.com/ 
   description: Building a startup with co-founders is a significant commitment that requires clear ground rules. Use this calculator to help establish a fair equity distribution with a standard vesting schedule.
