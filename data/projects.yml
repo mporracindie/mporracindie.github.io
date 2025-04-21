@@ -1,39 +1,51 @@
 - date: 2025
+  name: Fischer Store
+  url: https://fischerstore.com.ar/
+  description: A professional landing page for a franchise business specializing in retail products.
+- date: 2025
+  name: Hogar Reparaciones
+  url: https://hogar-reparaciones.com/
+  description: A landing page for a trusted local company offering comprehensive home repair services.
+- date: 2025
+  name: finsync.ar
+  url: https://finsync.ar/
+  description: A financial management platform enabling financial institutions to track and analyze client and account data efficiently.
+- date: 2025
   name: devalu.ar
   url: https://devalu.ar/ 
-  description: Explorá cómo la inflación transformó los valores a través del tiempo en Argentina
+  description: An interactive tool that visualizes the impact of inflation on values throughout Argentina's economic history.
 - date: 2025
   name: GAID
   url: https://gaid.ar/ 
-  description: Construido durante hackathon de ShipBA. Portal para encontrar experiencias culturales utilizando AI y sentiment analysis
+  description: A cultural discovery platform developed during ShipBA hackathon, leveraging AI and sentiment analysis to recommend personalized cultural experiences.
 - date: 2025
   name: Rock Rampage
   url: https://rock.porracin.com/ 
-  description: Kinda like Vampire Survivor but really crappy just with emojis and web
+  description: A web-based emoji survival game inspired by Vampire Survivor, offering a lighthearted gaming experience.
 - date: 2025
   name: Startup Equity Calculator
   url: https://equity.porracin.com/ 
-  description: Building a startup with co-founders is a significant commitment that requires clear ground rules. Use this calculator to help establish a fair equity distribution with a standard vesting schedule.
+  description: A comprehensive tool for startup founders to calculate fair equity distribution and establish standard vesting schedules.
 - date: 2024
   name: Messi GOAT
   url: https://messi.porracin.com/ 
-  description: enjoy finding and watching all Messi's goals made on specific dates.
+  description: An interactive platform for exploring and watching Lionel Messi's goals, organized by date and match.
 - date: 2024
   name: Plex
   url: https://github.com/mporracindie/plex 
-  description: a super easy way to spin up plex, radarr, sonarr and everything u need to watch series or movies and continue avoiding responsabilities.
+  description: A streamlined solution for deploying Plex Media Server with complementary tools like Radarr and Sonarr for an enhanced media experience.
 - date: 2023
   name: Flac to Wav
   url: https://flactowav.com/ 
-  description: audio converter site (from flac to wav) i made for a couple of DJ friends.
+  description: A specialized audio conversion tool designed for DJs to convert FLAC files to WAV format with high-quality output.
 - date: 2023
   name: GCP Auth user redirect
   url: https://github.com/mporracindie/ce_authuser_redirect 
-  description: super dummy chrome extension that detects GCP auth errors and adds the authuser parameter on the url.
+  description: A Chrome extension that automatically handles GCP authentication errors by adding the authuser parameter to URLs.
 - date: 2022
   name: .dotfiles
   url: https://github.com/mporracindie/dotfiles 
-  description: where i save configurations like .profile to easily re configure new devices.
+  description: A collection of configuration files for quick and consistent setup of development environments across devices.
 - date: 2021
   name: Own That Token
   url: https://ownthattoken.com/ 
