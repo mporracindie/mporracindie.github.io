@@ -13,7 +13,7 @@ head_title: Projects
     <article class="project">
         <span class="date">{{ project.date }}</span>
         <div class="project-details">
-            <a class="project" href="{{ project.url }}">{{project.name}}</a>: {{ project.description }}
+            {% if project.url %}<a class="project" href="{{ project.url }}">{{ project.name }}</a>{% else %}<span class="project">{{ project.name }}</span>{% endif %}: {{ project.description }}
         </div>
     </article>
     <br>

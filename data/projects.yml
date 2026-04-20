@@ -1,3 +1,14 @@
+- date: 2026
+  name: TickEvent
+  url: https://tickevent.ar/
+  description: A ticketing system idea for Argentina focused on cleaner event sales and QR-based entry, aimed at reducing friction for organizers and attendees.
+- date: 2026
+  name: House flipping
+  description: Started buying, renovating, and reselling residential properties, learning the local market, contractors, and project economics from acquisition to sale.
+- date: 2025
+  name: TeroMinds
+  url: https://terominds.com/
+  description: A software factory I co-founded with three friends (custom development, technology audits, and digital transformation for businesses).
 - date: 2025
   name: Fischer Store
   url: https://fischerstore.com.ar/
